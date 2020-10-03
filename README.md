@@ -1,10 +1,10 @@
 # acme-web-design
 
 ## Table of contents
-* [Introduction - the project's aim](#Introduction)
+* [Introduction - the project's aim](#Introduction - the project's aim)
 * [Technologies](#technologies)
 * [Project Status](#status)
-* [Launch]()
+* [Launch](https://github.com/preeti-t/acme-web-design)
 
 ## Introduction - the project's aim
 Acme-web-design is web development with affordable prices for small businesses.
